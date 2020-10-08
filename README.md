@@ -1,6 +1,3 @@
-OpenCityRansom
+RCR.js
 ==============
-
-Open-source browser-based River City Ransom remake
-//incluing line
-//incluing line2
+Open-source River City Ransom remake using Phaser
